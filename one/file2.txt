@@ -1,2 +1,5 @@
 this is file 2.
 This is added after 1st commit
+
+
+// This content is added by pink-mode branch to test branch merge.
